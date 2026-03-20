@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/kavia/workspace/code-generation/habit-tracker-dashboard-335045-335059/flutter_frontend
+flutter analyze
+
